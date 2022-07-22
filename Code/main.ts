@@ -1,6 +1,7 @@
 namespace Parallelprojektion {
     let canvas: HTMLCanvasElement;
     let crc2: CanvasRenderingContext2D;
+    
     let divEPoints: HTMLDivElement;
     let divUPoints: HTMLDivElement;
     
